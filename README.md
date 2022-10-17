@@ -3,7 +3,6 @@
 
 ## GitHub:
 - Github contains source code for the jupyter notebooks, website, and demo video.
-- https://github.com/HughN7/FaceMaskIdentityRecognition
 
 ## Code Structure:
 - Jupyter Notebooks for models
